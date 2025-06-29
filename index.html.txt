@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Make Webhook Form</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="form-container">
+    <form action="https://hook.eu2.make.com/qcesz9fbaybvjiago73v680fhqtbdfkd
+" method="POST">
+      <h2>Contact Form</h2>
+      <input type="text" name="name" placeholder="Your Name" required />
+      <input type="email" name="email" placeholder="Your Email" required />
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+
+</body>
+</html>
